@@ -30,3 +30,10 @@ I am a fullstack software engineer from BrainHi
 
 <br>
 <br>
+
+## Top Languages
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afvr94&layout=compact&theme=radical)](https://github.com/afvr94/github-readme-stats)</a>
+<br>
+<br>
+## Github stats
+<a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afvr94&show_icons=true&theme=radical)</a>
